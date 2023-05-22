@@ -1,0 +1,78 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://picsum.photos/200",
+      "year": 1948,
+      "description": "Suç ve Ceza, Raskolnikov isimli yoksul bir öğrencinin, bir tefeciyi öldürme planını ve sonrasında yaşadığı vicdan azabını anlatan bir roman. Dostoyevski'nin başyapıtlarından biri olarak kabul edilir."
+    },
+    {
+      "id": 2,
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "image": "https://picsum.photos/201",
+      "year": 1862,
+      "description": "1984, distopik bir gelecekte geçen ve totaliter bir devletin birey üzerindeki baskısını konu alan bir roman. Orwell'in en ünlü eserleri arasında yer alır."
+    },
+
+    {
+      "id": 3,
+      "title": "Don Kişot",
+      "author": "Miguel de Cervantes",
+      "image": "https://picsum.photos/202",
+      "year": 1605,
+      "description": "Sefiller, Fransız Devrimi döneminde geçen ve yoksul bir adamın hayat mücadelesini anlatan bir roman. Victor Hugo'nun en ünlü eserleri arasında yer alır."
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/203",
+      "year": 1949,
+      "description": "İçimizdeki Şeytan, bir yazarın ve aynı zamanda bir avukatın hayatını konu alan bir roman. Sabahattin Ali'nin en önemli eserleri arasında yer alır."
+    },
+
+    {
+      "id": 5,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/204",
+      "year": 1877,
+      "description": "Anna Karenina, Rusya aristokrasisi içinde geçen, Tolstoy'un en ünlü eserlerinden biridir. Roman, yasak aşklar, toplumsal normlar ve kişisel arayışlar hakkında derin bir incelme sunar. Ana karakter Anna Karenina, evli bir kadın olarak başka bir adamla aşk yaşaması sonucunda toplumda dışlanır ve trajik bir sonla karşı karşıya kalır. Bu eser, Tolstoy'un ustalıkla yazdığı karakterleri ve doğayı betimlemesiyle tanınır."
+    },
+    {
+      "id": 6,
+      "title": "Çöküş",
+      "author": "Nietzsche",
+      "image": "https://picsum.photos/205",
+      "year": 1889,
+      "description": "Kürk Mantolu Madonna, bir öğretmenin hayatını ve aşkını anlatan bir romandır. Sabahattin Ali'nin en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 7,
+      "title": "Savaş ve Barış",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/206",
+      "year": 1869,
+      "description": "Dönüşüm, bir sabah kendini dev bir böceğe dönüşmüş olarak bulan Gregor Samsa'nın hikayesini anlatan bir romandır. Franz Kafka'nın en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 8,
+      "title": "Dönüşüm",
+      "author": "Franz Kafka",
+      "image": "https://picsum.photos/207",
+      "year": 1915,
+      "description": "Yüzyıllık Yalnızlık, bir ailenin 7 nesil boyunca yaşadıklarını konu alan epik bir romandır. Gabriel Garcia Marquez'in en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 9,
+      "title": "İnsan Ne İle Yaşar?",
+      "author": "Lev Tolstoy",
+      "image": "https://picsum.photos/208",
+      "year": 1886,
+      "description": "Simyacı, bir çobanın kişisel yolculuğunu ve kaderini keşfetme arayışını anlatan bir roman. Paulo Coelho'nun en ünlü eserleri arasında yer almaktadır."
+    }
+  ]
+}
